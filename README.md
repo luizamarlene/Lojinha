@@ -2,8 +2,8 @@
 
 <p align='center'>Projeto criado para treinar as habilidades em Grid Layout e Flexbox.</p>
 <div display='inline' align='center'>
-<img src='/assets/img/mobile.png' width='300'/>
-<img src='/assets/img/desktop.png' width='300'/>
+<img src='/assets/img/mobile.png' width='350'/>
+<img src='/assets/img/desktop.png' width='350'/>
 </div>
 
 [Link do site do projeto](https://luizamarlene.github.io/Lojinha/)
