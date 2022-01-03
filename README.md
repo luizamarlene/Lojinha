@@ -1,6 +1,10 @@
-# Lojinha HZC
+## Lojinha HZC
 
-Projeto criado para treinar as habilidades em Grid Layout e Flexbox.
+<p align='center'>Projeto criado para treinar as habilidades em Grid Layout e Flexbox.</p>
+<div display='inline' align='center'>
+<img src='/assets/img/mobile.png' width='300'/>
+<img src='/assets/img/mobile.png' width='300'/>
+</div>
 
 [Link do site do projeto](https://luizamarlene.github.io/Lojinha/)
 
