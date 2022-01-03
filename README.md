@@ -1,4 +1,4 @@
-#Lojinha HZC
+# Lojinha HZC
 
 Projeto criado para treinar as habilidades em Grid Layout e Flexbox.
 
